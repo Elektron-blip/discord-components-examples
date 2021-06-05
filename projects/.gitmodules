@@ -1,0 +1,3 @@
+[submodule "neo-bot"]
+	path = neo-bot
+	url = git@github.com:Elektron-blip/neo-bot.git
