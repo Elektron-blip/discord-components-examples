@@ -2,7 +2,7 @@
 Anyone is allowed to contibute code to this repository.
 
 ## Structure of this repository
-- All projects go in the top-level directory of this repository in their own folders.
+- All projects go in the projects directory of this repository in their own folders.
 - Each folder is authored by different people.
 
 ## Requirements for contributing examples
