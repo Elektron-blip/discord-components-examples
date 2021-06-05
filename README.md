@@ -4,7 +4,7 @@ This is a code repository for examples of discord bots created using [discord.py
 
 ## Usage
 
-Each folder on the top-level directory is its own project. Read their respective READMEs for more information.
+Each folder on the projects directory is its own project. Read their respective READMEs for more information.
 
 ## Contributing
 If you would like to contribute your own example or would like to make improvements to existing examples, feel free to do so after having a look at [CONTRIBUTING.md](https://github.com/Elektron-blip/discord-components-examples/blob/main/CONTRIBUTING.md)
