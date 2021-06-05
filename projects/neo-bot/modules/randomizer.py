@@ -1,4 +1,4 @@
-'''
+"""
 /* This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -11,16 +11,16 @@
 This Source Code Form is subject to the terms of the Mozilla Public
 License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at https://mozilla.org/MPL/2.0/.
-'''
+"""
 import random
 
-class Random():
 
+class Random:
     async def coin():
-        return random.choice(['Heads', 'Tails'])
-        
-    async def generator(start:int,end:int):
-        return random.randint(start,end)
-    
-    async def selector(thing:list):
+        return random.choice(["Heads", "Tails"])
+
+    async def generator(start: int, end: int):
+        return random.randint(start, end)
+
+    async def selector(thing: list):
         return random.choice(thing)
